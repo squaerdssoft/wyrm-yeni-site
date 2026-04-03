@@ -1,0 +1,7 @@
+node_modules
+dist
+# .env # Removed by Orchids to allow .env files
+# .env.local # Removed by Orchids to allow .env files
+# .env.*.local # Removed by Orchids to allow .env files
+*.log
+.DS_Store
